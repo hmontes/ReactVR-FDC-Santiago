@@ -24,6 +24,8 @@ Después de clonar el repositorio.
 ## Notas
 El archivo './components/Studio.js', linea 24, llama a mi github por defecto para cargar datos. Te invito a colocar tu nombre de usuario para que se carguen tus propios datos. (Nombre, Avatar y Descripción biografica)
 
+Se adjunta la presentación mostrada en el Workshop (React VR - FbDC.pdf)
+
 ## Tests
 
 Hasta la fecha, no se conoce una herramienta compatible con React-VR para hacer tests
